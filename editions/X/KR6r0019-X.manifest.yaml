@@ -1,0 +1,560 @@
+canonical_identifier: bkk:krp/KR6r0019/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0019/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續佛祖統紀
+  identifiers:
+    krp: KR6r0019
+    cbeta: X75n1515
+    cbeta_old_id: X75n1515
+    authorityid: CA0003644
+    json_key: X1515
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X75/X75n1515.xml
+    old_id: X75n1515
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0019_000-X.yaml, hash: 'sha256:8c80fcaa769b8f108634e11483d076bdee532e5f64b9b176a45436a410d3f720'}
+  - {seq: 1, filename: KR6r0019_001-X.yaml, hash: 'sha256:355214dac86a40210ce44d52c57211f0c35a240bceb8035257076ea4338e47b0'}
+  - {seq: 2, filename: KR6r0019_002-X.yaml, hash: 'sha256:7d50a51b0e2b06cce9e6d8eaa25ee9d5772d46e8378fe2f3666544e28657db94'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0019_000-X.markers.yaml, hash: 'sha256:992476cc3c9a858f37cf53c3ec1da03629cb423254317885ebadd99f8e21ebaf'}
+  - {seq: 1, role: markers, filename: assets/KR6r0019_001-X.markers.yaml, hash: 'sha256:917f18047d18def853e6cf807c172861899c6af8c916720b05674fb97bc0d6c9'}
+  - {seq: 2, role: markers, filename: assets/KR6r0019_002-X.markers.yaml, hash: 'sha256:8dc197af0e767c45bb5de3fb491748873d22944bff32ff75555a0dda1c993f54'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0019_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10078
+  label: 續佛祖統紀卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 北峰印法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 法師法照
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-3
+    span:
+    - body
+    - 1283
+    - 1283
+  label: 總庵心法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-4
+    span:
+    - body
+    - 1290
+    - 1290
+  label: 法師文杲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-5
+    span:
+    - body
+    - 2136
+    - 2136
+  label: 嘯岩虎法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-6
+    span:
+    - body
+    - 2143
+    - 2143
+  label: 法師智覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-7
+    span:
+    - body
+    - 2997
+    - 2997
+  label: 桐洲坦法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-8
+    span:
+    - body
+    - 3004
+    - 3004
+  label: 法師永清
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-9
+    span:
+    - body
+    - 3705
+    - 3705
+  label: 冶堂模法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-10
+    span:
+    - body
+    - 3712
+    - 3712
+  label: 法師子儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-11
+    span:
+    - body
+    - 4572
+    - 4572
+  label: 剡源先師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-12
+    span:
+    - body
+    - 4578
+    - 4578
+  label: 法師允澤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-13
+    span:
+    - body
+    - 5090
+    - 5090
+  label: 東屏吾法師法嗣(佛光下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-14
+    span:
+    - body
+    - 5100
+    - 5100
+  label: 法師元凱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-15
+    span:
+    - body
+    - 5307
+    - 5307
+  label: 雲夢澤法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-16
+    span:
+    - body
+    - 5314
+    - 5314
+  label: 法師性澄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-17
+    span:
+    - body
+    - 6434
+    - 6434
+  label: 古源清法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-18
+    span:
+    - body
+    - 6441
+    - 6441
+  label: 法師蒙潤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-19
+    span:
+    - body
+    - 7227
+    - 7227
+  label: 佛海澄法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-20
+    span:
+    - body
+    - 7234
+    - 7234
+  label: 法師弘濟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-21
+    span:
+    - body
+    - 8059
+    - 8059
+  label: 法師本無
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-22
+    span:
+    - body
+    - 8522
+    - 8522
+  label: 法師允若
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0019_X_001-mulu-23
+    span:
+    - body
+    - 9336
+    - 9336
+  label: 法師善繼
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 9526
+  label: 續佛祖統紀卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 玉岡潤法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-2
+    span:
+    - body
+    - 7
+    - 7
+  label: 法師必才
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-3
+    span:
+    - body
+    - 566
+    - 566
+  label: 法師普曜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-4
+    span:
+    - body
+    - 1088
+    - 1088
+  label: 法師正壽
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-5
+    span:
+    - body
+    - 1488
+    - 1488
+  label: 法師子實
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-6
+    span:
+    - body
+    - 1987
+    - 1987
+  label: 法師大佑
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-7
+    span:
+    - body
+    - 2534
+    - 2534
+  label: 子庭訓法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-8
+    span:
+    - body
+    - 2541
+    - 2541
+  label: 法師慧日
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-9
+    span:
+    - body
+    - 3515
+    - 3515
+  label: 松林溥法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-10
+    span:
+    - body
+    - 3522
+    - 3522
+  label: 法師子思
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-11
+    span:
+    - body
+    - 3886
+    - 3886
+  label: 桐溪濟法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-12
+    span:
+    - body
+    - 3893
+    - 3893
+  label: 法師普容
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-13
+    span:
+    - body
+    - 4362
+    - 4362
+  label: 天泉澤法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-14
+    span:
+    - body
+    - 4369
+    - 4369
+  label: 法師祖禰
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-15
+    span:
+    - body
+    - 4732
+    - 4732
+  label: 我庵無法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-16
+    span:
+    - body
+    - 4739
+    - 4739
+  label: 法師弘道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-17
+    span:
+    - body
+    - 5432
+    - 5432
+  label: 耶溪若法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-18
+    span:
+    - body
+    - 5439
+    - 5439
+  label: 法師友奎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-19
+    span:
+    - body
+    - 6241
+    - 6241
+  label: 絕宗繼法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-20
+    span:
+    - body
+    - 6248
+    - 6248
+  label: 法師如玘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-21
+    span:
+    - body
+    - 6968
+    - 6968
+  label: 法師自朋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-22
+    span:
+    - body
+    - 7414
+    - 7414
+  label: 大用才法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-23
+    span:
+    - body
+    - 7421
+    - 7421
+  label: 法師大山
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-24
+    span:
+    - body
+    - 8005
+    - 8005
+  label: 法師良玉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-25
+    span:
+    - body
+    - 8464
+    - 8464
+  label: 法師元鎮
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-26
+    span:
+    - body
+    - 8827
+    - 8827
+  label: 靜菴鎮法師法嗣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0019_X_002-mulu-27
+    span:
+    - body
+    - 8834
+    - 8834
+  label: 法師紹宗
+  type: mulu
+  level: 1
+hash: sha256:36caae8ddc7faee9aff733515bbd4761ac3b2ef3a9d0113f6cdd82a48e8bb1c6
