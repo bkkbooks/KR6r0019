@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0019_000.yaml, hash: 'sha256:8c80fcaa769b8f108634e11483d076bdee532e5f64b9b176a45436a410d3f720'}
+  - {seq: 0, filename: KR6r0019_000.yaml, hash: 'sha256:55240d70a0c45f5243f8ea090dd7d7b4fb298b08a0e75062b887cfcde84c3de1'}
   - {seq: 1, filename: KR6r0019_001.yaml, hash: 'sha256:1b7c832c2e0e61e9aedd715d97f5b3277aeb69d04340f12686054edab201fb33'}
   - {seq: 2, filename: KR6r0019_002.yaml, hash: 'sha256:736eb90b87c9a7d205bc464a2d8689ce930c61d2f15a43ddc959c9db57f123a6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0019_000.markers.yaml, hash: 'sha256:7f8652c0374fca968c605a9811a39cc573a8d39863cb6f3edafe871d3c2c90e4'}
+  - {seq: 0, role: markers, filename: assets/KR6r0019_000.markers.yaml, hash: 'sha256:1896efeed4181d646d5d84c449e8bbc0ad15ae3b698f5044d6ce5385c0cdb256'}
   - {seq: 1, role: markers, filename: assets/KR6r0019_001.markers.yaml, hash: 'sha256:bb39035f9b4acc041ec45a77993f5eab8cbb442dbcf1a0b7912ab6fa07d0ead6'}
   - {seq: 2, role: markers, filename: assets/KR6r0019_002.markers.yaml, hash: 'sha256:92533b365a17f9dc0bfdd3b1e190d036478317b245bde01e271ab66a92b326c6'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0019_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -559,7 +559,7 @@ table_of_contents:
   label: 法師紹宗
   type: mulu
   level: 1
-hash: sha256:4aa4931fa18b1040b6022607d11c33be11673113418d42cacba16ee5215a9f0b
+hash: sha256:2a7822d103909d2205b7c304f1ebbc73766cafac6577789a6fd958b38af7c277
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

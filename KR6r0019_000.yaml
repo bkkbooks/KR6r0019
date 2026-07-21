@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6r0019/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 續佛祖統紀諸師列傳之一法照法師文杲法師智覺法師永清法師子儀法師允澤法師元凱法師性澄法師蒙潤法師弘濟法師本無法師允若法師善繼法師續佛祖統紀諸師列傳之二必才法師普曜法師正壽法師子實法師大佑法師慧日法師子思法師普容法師祖禰法師弘道法師友奎法師如玘法師自朋法師大山法師良玉法師元領法師紹宗法師
   hash: sha256:ce9147c303b2a14fa9a97f3f6334cdfd38f24755946dfebaa8efa1dd1f39cb33
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6r0019_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 續佛祖統紀
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X75/X75n1515.xml
     old_id: X75n1515
-hash: sha256:8c80fcaa769b8f108634e11483d076bdee532e5f64b9b176a45436a410d3f720
+hash: sha256:55240d70a0c45f5243f8ea090dd7d7b4fb298b08a0e75062b887cfcde84c3de1
